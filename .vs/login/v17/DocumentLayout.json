@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|c:\\users\\mahec\\documents\\prueba-t\u00E9cnica-back\\login\\login\\login\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|solutionrelative:login\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|c:\\users\\mahec\\documents\\prueba-t\u00E9cnica-back\\login\\login\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|c:\\users\\mahec\\documents\\prueba-t\u00E9cnica-back\\login\\login\\login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|solutionrelative:login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|c:\\users\\mahec\\documents\\prueba-t\u00E9cnica-back\\login\\login\\login\\migrations\\20240424152933_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|solutionrelative:login\\migrations\\20240424152933_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|c:\\users\\mahec\\documents\\prueba-t\u00E9cnica-back\\login\\login\\login\\context\\aplicattiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|solutionrelative:login\\context\\aplicattiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|c:\\users\\mahec\\documents\\prueba-t\u00E9cnica-back\\login\\login\\login\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505283B4-557E-4685-8FB6-D8CF5D466F40}|login\\login.csproj|solutionrelative:login\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 1143,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240424152933_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\Migrations\\20240424152933_Inicial.cs",
+              "RelativeDocumentMoniker": "login\\Migrations\\20240424152933_Inicial.cs",
+              "ToolTip": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\Migrations\\20240424152933_Inicial.cs",
+              "RelativeToolTip": "login\\Migrations\\20240424152933_Inicial.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:55:38.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "login\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\appsettings.Development.json",
+              "RelativeToolTip": "login\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T15:55:38.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\Program.cs",
+              "RelativeDocumentMoniker": "login\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\Program.cs",
+              "RelativeToolTip": "login\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:55:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AplicattionDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\Context\\AplicattionDbcontext.cs",
+              "RelativeDocumentMoniker": "login\\Context\\AplicattionDbcontext.cs",
+              "ToolTip": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\Context\\AplicattionDbcontext.cs",
+              "RelativeToolTip": "login\\Context\\AplicattionDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:55:38.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.csproj",
+              "DocumentMoniker": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\login.csproj",
+              "RelativeDocumentMoniker": "login\\login.csproj",
+              "ToolTip": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\login.csproj",
+              "RelativeToolTip": "login\\login.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T15:55:38.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "login\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Mahec\\Documents\\Prueba-t\u00E9cnica-back\\login\\login\\login\\Models\\Users.cs",
+              "RelativeToolTip": "login\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:55:38.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
